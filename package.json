@@ -1,6 +1,6 @@
 {
   "name": "littleid",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "make a random id of X chars long",
   "main": "index.js",
   "scripts": {
